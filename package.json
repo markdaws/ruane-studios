@@ -1,0 +1,23 @@
+{
+  "name": "ruane-studios",
+  "version": "1.0.0",
+  "description": "ruanestudios.com",
+  "main": "index.js",
+  "dependencies": {
+    "serve": "^10.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "website": "serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/markdaws/ruane-studios.git"
+  },
+  "author": "Ruane Studios LLC",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/markdaws/ruane-studios/issues"
+  },
+  "homepage": "https://github.com/markdaws/ruane-studios#readme"
+}
